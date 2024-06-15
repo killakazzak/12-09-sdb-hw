@@ -63,6 +63,8 @@ select * from test_table;
 
 ### Решение Задание 1
 
+![image](https://github.com/killakazzak/12-09-sdb-hw/assets/32342205/0eaf855c-98c5-46a8-8b0e-224a0f12c432)
+
 
 ### Задание 2*
 
