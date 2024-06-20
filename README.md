@@ -78,6 +78,14 @@ select * from test_table;
 ![image](https://github.com/killakazzak/12-09-sdb-hw/assets/32342205/84979044-a402-4447-8619-18eb385e4f5a)
 
 
+![image](https://github.com/killakazzak/12-09-sdb-hw/assets/32342205/8e0c1dcc-5e6f-4dbb-9d6b-17771fcef7fe)
+
+
+![image](https://github.com/killakazzak/12-09-sdb-hw/assets/32342205/ae4b6bce-6be9-46f6-b7e9-382d893b0924)
+
+
+![image](https://github.com/killakazzak/12-09-sdb-hw/assets/32342205/0cd3b125-cdff-478c-be1e-206b7a0d7034)
+
 
 ### Задание 2*
 
