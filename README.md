@@ -71,7 +71,11 @@ select * from test_table;
 
 ![image](https://github.com/killakazzak/12-09-sdb-hw/assets/32342205/c1004128-2011-4ee1-aa94-1f2412be5045)
 
+
 ![image](https://github.com/killakazzak/12-09-sdb-hw/assets/32342205/225c927a-e306-4867-8fda-512a04044d59)
+
+
+![image](https://github.com/killakazzak/12-09-sdb-hw/assets/32342205/84979044-a402-4447-8619-18eb385e4f5a)
 
 
 
