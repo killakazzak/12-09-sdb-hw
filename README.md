@@ -66,6 +66,9 @@ select * from test_table;
 ![image](https://github.com/killakazzak/12-09-sdb-hw/assets/32342205/0eaf855c-98c5-46a8-8b0e-224a0f12c432)
 
 
+![image](https://github.com/killakazzak/12-09-sdb-hw/assets/32342205/ccecd244-1cf3-432e-ad71-bd1238497877)
+
+
 ### Задание 2*
 
 Создайте кластер, как в задании 1 с помощью Terraform.
